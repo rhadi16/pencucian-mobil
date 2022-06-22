@@ -1,0 +1,53 @@
+* {
+	font-family: 'Varela Round', sans-serif;
+}
+
+.card-login .card {
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+	width: 50%; 
+	margin: 40px auto;
+}
+.card-login .card .img-thumbnail {
+	width: 30%;
+	border: unset;
+}
+.card-login .card .modal-footer {
+	justify-content: center;
+}
+@media (max-width: 576px) { 
+	.card-login .card {
+		width: 100%;
+	}
+}
+/*.navbar {
+	background-color: #0d47a1;
+	color: #fff;
+}
+.navbar-brand,
+.pencarian .card-header,
+.list-barang h3,
+.modal-title,
+.offcanvas-title {
+	font-family: 'Viga', sans-serif;
+}
+
+.pencarian {
+	margin-top: 70px;
+}
+.pencarian .card,
+.list-barang .card {
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+}
+.pencarian .fa-search,
+.pencarian .fa-times {
+	margin-right: 7px;
+}
+.pencarian button {
+	margin: 0 5px;
+}
+
+@media (max-width: 576px) { 
+	.offcanvas-start {
+		width: 200px;
+	}
+}*/

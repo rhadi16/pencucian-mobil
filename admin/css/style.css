@@ -1,0 +1,60 @@
+.navbar {
+	background-color: #0d47a1;
+	color: #fff;
+}
+
+.navbar .navbar-nav {
+	align-items: center;
+}
+.navbar .navbar-nav i {
+	font-size: 2.5rem;
+	margin-right: 10px;
+}
+.navbar .navbar-nav .akun p {
+	margin: 0;
+	padding: 0;
+}
+
+.offcanvas-body .list-group .btn-primary {
+	background-color: #82b1ff;
+	border-color: #82b1ff;
+}
+.offcanvas-body .list-group .btn {
+	margin-bottom: 13px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.dashboard {
+	margin-top: 100px;
+}
+.dashboard .card {
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+}
+.dashboard button {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+#operator {
+	margin-top: 80px;
+}
+#operator .title {
+	font-size: 1.5rem;
+}
+#operator .list .card {
+	margin: 15px 0;
+	padding: 20px;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+}
+#operator .list .card .tombol {
+	margin-top: 10px;
+}
+#operator .list .card .tombol i {
+	margin-right: 5px;
+}
+@media (max-width: 576px) { 
+	.offcanvas-start {
+		width: 230px;
+	}
+}
